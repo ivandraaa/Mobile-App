@@ -1,6 +1,6 @@
-# flutter_latihan_1
+Praktikum Pengembangan Aplikasi Bergerak
+Fawwaz Ivandra - M0520030  
 
-A new Flutter project.
 
 ## Getting Started
 
